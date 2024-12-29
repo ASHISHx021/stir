@@ -7,10 +7,10 @@ Instructions for Setting Up and Running the Task
    
    Use the following commands to install the necessary dependencies:
    
-   pip install selenium
-   pip install pymongo
-   pip install flask
-   pip install webdriver-manager
+   pip install selenium,
+   pip install pymongo,
+   pip install flask,
+   pip install webdriver-manager,
 
 2. Ensure MongoDB is Running:-
     
@@ -31,6 +31,7 @@ Instructions for Setting Up and Running the Task
    python3 scraper.py
 
 5. Access the HTML Interface:-
+
    You can view the results through the browser interface:
    
    1.Open your browser and navigate to:
